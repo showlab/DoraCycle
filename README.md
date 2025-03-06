@@ -9,7 +9,7 @@
     <a href="https://sites.google.com/view/showlab"><strong>Mike Zheng Shou</strong></a>
     <br>
     <br>
-        <a href="https://arxiv.org/abs/2310.08465"><img src='https://img.shields.io/badge/arXiv-2310.08465-b31b1b.svg'></a>
+        <a href="https://arxiv.org/abs/2503.03651"><img src='https://img.shields.io/badge/arXiv-2503.03651-b31b1b.svg'></a>
     <br>
     <b>Show Lab, National University of Singapore</b>
   </p>

@@ -20,5 +20,5 @@
 <br>
 
 🚧 **Code Release Status**  
-We are actively cleaning up the codebase and expect to release the code within **2 weeks**.  
+We are cleaning up the codebase and expect to release the code soon.  
 Thank you for your patience! 🙌

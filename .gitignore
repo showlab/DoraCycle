@@ -1,0 +1,6 @@
+wandb/
+*.bin
+*.png
+*.pt
+*.pyc
+!docs/*
